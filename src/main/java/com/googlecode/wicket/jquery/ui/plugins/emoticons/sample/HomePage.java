@@ -1,4 +1,4 @@
-package org.wicketstuff.emoticonssample;
+package com.googlecode.wicket.jquery.ui.plugins.emoticons.sample;
 
 import com.googlecode.wicket.jquery.ui.plugins.emoticons.EmotIconsBehavior;
 import org.apache.wicket.request.mapper.parameter.PageParameters;
